@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+
+![image](https://github.com/mahsan15/Task-Manager-App/assets/82739557/cd636483-8623-42c6-bc30-f22e06323dc4)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
